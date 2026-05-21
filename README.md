@@ -1,1 +1,0 @@
-# Ai-Powered-Voice-Journal-With-Whisper
